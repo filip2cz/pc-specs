@@ -7,7 +7,7 @@
 - PS/2 connector: no
 - Parallel ATA (PATA) IDE drive connector: no
 
-manual: https://www.intel.com/content/dam/support/us/en/documents/motherboards/desktop/dq67sw/dq67sw_techprodspec02.pdf
+manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 
 ## Processor
 - Intel Core i7-2600
