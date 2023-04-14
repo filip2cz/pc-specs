@@ -1,5 +1,8 @@
 # pentiumf
 
+## Operating system
+- OS: Windows 10 Pro
+
 ## Motherboard
 - model: Intel Desktop Board dq67sw (https://ark.intel.com/content/www/us/en/ark/products/51997/intel-desktop-board-dq67sw.html)
 - socket: LGA1155

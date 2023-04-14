@@ -1,5 +1,8 @@
 # Dell Latitude E5540
 
+## Operating systen
+- OS: Windows 11 Pro
+
 ## Motherboard
 - model: Dell Inc. 0KKCG7
 - socket: 1168 BGA
