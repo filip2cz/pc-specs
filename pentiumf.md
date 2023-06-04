@@ -1,5 +1,7 @@
 # pentiumf
 
+benchmark: https://www.userbenchmark.com/UserRun/61845854
+
 ## Operating system
 - OS: Windows 10 Pro
 
