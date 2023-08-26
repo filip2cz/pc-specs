@@ -1,9 +1,9 @@
 # pentiumf
 
-benchmark: https://www.userbenchmark.com/UserRun/63604054
+benchmark: https://www.userbenchmark.com/UserRun/63723995
 
 ## Operating system
-- OS: Windows 10 Pro
+- OS: Windows 11 Pro
 
 ## Motherboard
 - model: Intel Desktop Board dq67sw (https://ark.intel.com/content/www/us/en/ark/products/51997/intel-desktop-board-dq67sw.html)
