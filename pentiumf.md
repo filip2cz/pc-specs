@@ -28,6 +28,8 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
     - Slot 4: 4 GB
 
 ## Graphic card
+
+### External
 - GIGABYTE GTX 1060 MINI ITX OC (https://www.techpowerup.com/gpu-specs/gigabyte-gtx-1060-mini-itx-oc.b3796)
 - GPU memory: 3 GB
 - Total Memory: 9.0 GB
@@ -38,6 +40,9 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 - Device: 1C02
 - Plug and Play ID: VEN_10DE&DEV_1C02&SUBSYS_37221458&REV_A1
 - Year: 2016
+
+### Internal
+- Intel HD 2000
 
 ## Mouse
 - Trust GXT 161 Disan (https://www.czc.cz/trust-gxt-161-disan-cerna/235231/produkt)
