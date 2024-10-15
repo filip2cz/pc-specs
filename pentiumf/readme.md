@@ -1,7 +1,5 @@
 # pentiumf
 
-benchmark: https://www.userbenchmark.com/UserRun/63723995
-
 ## Operating system
 - OS: Windows 11 Pro
 
