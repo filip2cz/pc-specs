@@ -1,7 +1,5 @@
 # Dell Latitude E5540
 
-benchmark: https://www.userbenchmark.com/UserRun/61913007
-
 ## Operating systen
 - OS: Windows 11 Pro
 
