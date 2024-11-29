@@ -18,11 +18,11 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 - Cores: 4
 
 ## RAM
-- 12 GB
+- 16 GB
 - Slots:
-    - Slot 1: 2 GB
+    - Slot 1: 4 GB
     - Slot 2: 4 GB
-    - Slot 3: 2 GB
+    - Slot 3: 4 GB
     - Slot 4: 4 GB
 
 ## Graphic card
