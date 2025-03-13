@@ -18,12 +18,12 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 - Cores: 4
 
 ## RAM
-- 16 GB
+- 12 GB
 - Slots:
-    - Slot 1: 4 GB
-    - Slot 2: 4 GB
-    - Slot 3: 4 GB
-    - Slot 4: 4 GB
+    - DIMM3(A0): 4 GB (https://www.kingston.com/datasheets/KVR13N9S8K2_8.pdf)
+    - DIMM1(A1): 2 GB (https://www.kingston.com/datasheets/kvr1333d3n9_2g.PDF)
+    - DIMM4(B0): 4 GB (https://www.kingston.com/datasheets/KVR13N9S8K2_8.pdf)
+    - DIMM2(B1): 2 GB (https://www.kingston.com/datasheets/kvr1333d3n9_2g.PDF)
 
 ## Graphic card
 
