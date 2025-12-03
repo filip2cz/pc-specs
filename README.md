@@ -14,7 +14,7 @@ Stock OS - Android 16
 
 ## Xiaomi Poco X3 NFC - surya
 
-![Poco X3 NFC photo](https://devices.ubuntu-touch.io/_astro/Xiaomi%20Poco%20X3%20NFC_PQwrA.avif)
+![Poco X3 NFC photo](https://devices.ubuntu-touch.io/_astro/Xiaomi%20Poco%20X3%20NFC_2i5ivj.avif)
 
 [Ubuntu Touch 24.04](https://devices.ubuntu-touch.io/device/surya/)
 
