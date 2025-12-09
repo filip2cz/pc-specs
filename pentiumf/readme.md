@@ -1,7 +1,7 @@
 # pentiumf
 
 ## Operating system
-- OS: Windows 11 Pro
+- OS: Kubuntu 24.04 LTS
 
 ## Motherboard
 - model: Intel Desktop Board dq67sw (https://www.alza.cz/intel-dq67sw-strawberry-mountain-stepping-b3-d222288.htm)
