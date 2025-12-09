@@ -4,7 +4,7 @@
 - OS: Windows 11 Pro
 
 ## Motherboard
-- model: Intel Desktop Board dq67sw (https://ark.intel.com/content/www/us/en/ark/products/51997/intel-desktop-board-dq67sw.html)
+- model: Intel Desktop Board dq67sw (https://www.alza.cz/intel-dq67sw-strawberry-mountain-stepping-b3-d222288.htm)
 - socket: LGA1155
 - Floppy drive connector: no
 - PS/2 connector: no
