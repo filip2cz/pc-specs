@@ -25,6 +25,15 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
     - DIMM4(B0): 4 GB (https://www.kingston.com/datasheets/KVR13N9S8K2_8.pdf)
     - DIMM2(B1): 2 GB (https://www.kingston.com/datasheets/kvr1333d3n9_2g.PDF)
 
+![alt text](https://github.com/filip2cz/pc-specs/blob/main/pentiumf/ram.png?raw=true)
+
+| DIMM* | x |
+|-------|---|
+| DIMM3 | K |
+| DIMM1 | L |
+| DIMM4 | M |
+| DIMM2 | N |
+
 ## Graphic card
 
 ### External
