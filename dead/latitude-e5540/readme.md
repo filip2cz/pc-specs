@@ -1,3 +1,5 @@
+# On christmas morning 24th December 2025, this notebook died after 5 years in my ownership (since summer 2020)
+
 # Dell Latitude E5540
 
 ## Operating systen
