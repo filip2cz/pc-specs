@@ -56,3 +56,6 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 - DPI: 3000
 - Senzor: optical
 - Wireless technology: Radio Frequency
+
+## Case
+[Cooler Master Elite 341](https://www.alza.cz/gaming/coolermaster-elite-341-d159583.htm)
