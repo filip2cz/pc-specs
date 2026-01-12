@@ -52,7 +52,7 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 - Intel HD 2000
 
 ## Mouse
-- Trust GXT 161 Disan (https://www.czc.cz/trust-gxt-161-disan-cerna/235231/produkt)
+- [Trust GXT 161 Disan](https://www.datart.cz/mys-trust-gxt-161-disan-cerna-22210.html)
 - DPI: 3000
 - Senzor: optical
 - Wireless technology: Radio Frequency
