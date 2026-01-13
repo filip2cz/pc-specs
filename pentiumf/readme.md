@@ -20,10 +20,10 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 ## RAM
 - 12 GB
 - Slots:
-    - DIMM3(A0): 4 GB (https://www.kingston.com/datasheets/KVR13N9S8K2_8.pdf)
-    - DIMM1(A1): 2 GB (https://www.kingston.com/datasheets/kvr1333d3n9_2g.PDF)
-    - DIMM4(B0): 4 GB (https://www.kingston.com/datasheets/KVR13N9S8K2_8.pdf)
-    - DIMM2(B1): 2 GB (https://www.kingston.com/datasheets/kvr1333d3n9_2g.PDF)
+    - DIMM3(A0): 4 GB [KVR1333D3N9/2G](https://www.kingston.com/datasheets/kvr1333d3n9_2g.PDF)
+    - DIMM1(A1): 4 GB [KHX2400C11D3K4/8GX](https://www.kingston.com/datasheets/KHX2400C11D3K4_8GX.pdf)
+    - DIMM4(B0): 4 GB [KVR1333D3N9/2G](https://www.kingston.com/datasheets/kvr1333d3n9_2g.PDF)
+    - DIMM2(B1): 2 GB [KVR13N9S8K2/8](https://www.kingston.com/datasheets/KVR13N9S8K2_8.pdf)
 
 ![alt text](https://github.com/filip2cz/pc-specs/blob/main/pentiumf/ram.png?raw=true)
 
