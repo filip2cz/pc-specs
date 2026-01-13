@@ -41,13 +41,6 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 ### External
 [GIGABYTE GTX 1060 MINI ITX OC](https://www.techpowerup.com/gpu-specs/gigabyte-gtx-1060-mini-itx-oc.b3796)
 - GPU memory: 3 GB
-- Total Memory: 9.0 GB
-- Pixel Shader Version: 5.0
-- Vertex Shader Version: 5.0
-- Hardware T&L: Yes
-- Vendor ID: 10DE
-- Device: 1C02
-- Plug and Play ID: VEN_10DE&DEV_1C02&SUBSYS_37221458&REV_A1
 - Year: 2016
 
 ### Internal
