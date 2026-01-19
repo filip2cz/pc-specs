@@ -1,7 +1,7 @@
 # new PC concept
 
 ## OS
-[NixOS 25.11](https://nixos.org/download/)
+[NixOS 25.11](https://nixos.org/)
 
 ## Motherboard
 
