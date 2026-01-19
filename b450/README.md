@@ -9,7 +9,7 @@
 
 - Socket: AMD AM4
 - Chipset: AMD B450
-- Form Factor: ATX Form Factor; 30.5cm x 23.5cm
+- Form Factor: ATX; 30.5cm x 23.5cm
 
 ## CPU
 
