@@ -53,8 +53,10 @@ TBA
 
 ### CD/DVD: SATA: [HL-DT-ST DVDRAM GH22NS70](https://www.hpmarket.cz/productOpt.asp?konfId=GH22NS70-AUARxx)
 
-## Mouse
-- [Trust GXT 161 Disan](https://www.datart.cz/mys-trust-gxt-161-disan-cerna-22210.html)
+## Mouse: USB: [Trust GXT 161 Disan](https://www.datart.cz/mys-trust-gxt-161-disan-cerna-22210.html)
+
 - DPI: 3000
 - Senzor: optical
 - Wireless technology: Radio Frequency
+
+## Microphone: USB: [Endorfy Solum T (SM900T)](https://www.smarty.cz/Endorfy-Solum-T-SM900T-mikrofon-4p101619)
