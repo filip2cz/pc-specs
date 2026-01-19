@@ -46,6 +46,9 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 ### Internal
 [Intel HD 2000](https://www.techpowerup.com/gpu-specs/hd-graphics-2000.c1248)
 
+## Power supply unit
+[FORTRON ATX-350PNR 350W](https://www.alza.cz/fortron-350w-atx-d120805.htm)
+
 ## Case
 [Cooler Master Elite 341](https://www.alza.cz/gaming/coolermaster-elite-341-d159583.htm)
 
