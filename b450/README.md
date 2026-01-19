@@ -60,3 +60,8 @@ TBA
 - Wireless technology: Radio Frequency
 
 ## Microphone: USB: [Endorfy Solum T (SM900T)](https://www.smarty.cz/Endorfy-Solum-T-SM900T-mikrofon-4p101619)
+
+## Case
+[Endorfy Armis 100 Solid](https://www.alza.cz/endorfy-armis-100-solid-d12569108.htm) ?
+
+![Case photo](https://image.alza.cz/products/ENDa100s/ENDa100s-01.jpg?width=400&height=400)
