@@ -34,6 +34,10 @@ none
 
 TBA
 
+## Power supply unit
+
+[Endorfy Vero L6 Bronze 550W](https://www.alza.cz/endorfy-vero-l6-bronze-550w-d13163992.htm) ?
+
 ## Disk drives
 
 ### /: NVME: TBA
@@ -41,15 +45,20 @@ TBA
 - NVME
 - 500 GB
 
-### /home: SATA: [WDC WD80EFAX-68KNBN0](https://www.memory4less.com/western-digital-hard-drive-wd80efax-68knbn0)
+### /home: SATA: [Samsung SSD 860 EVO 1TB](https://www.alza.cz/samsung-860-evo-1000gb-d5258009.htm)
+
+- SSD
+- 1 TB
+
+### /home/user/hdd: SATA: [WDC WD80EFAX-68KNBN0](https://www.memory4less.com/western-digital-hard-drive-wd80efax-68knbn0)
 
 - HDD
 - 8 TB
 
-### Windows 11 VM + dualboot: SATA: [Samsung SSD 860 EVO 1TB](https://www.alza.cz/samsung-860-evo-1000gb-d5258009.htm)
+### Windows 11 VM + dualboot: SATA: [Samsung SSD 860 EVO 500TB](https://www.alza.cz/samsung-860-evo-500gb-d5258008.htm)
 
 - SSD
-- 1 TB
+- 500 GB
 
 ### CD/DVD: SATA: [HL-DT-ST DVDRAM GH22NS70](https://www.hpmarket.cz/productOpt.asp?konfId=GH22NS70-AUARxx)
 
@@ -58,6 +67,8 @@ TBA
 - DPI: 3000
 - Senzor: optical
 - Wireless technology: Radio Frequency
+
+## Keyboard: USB: [Connect IT Battle Rainbow, CZ (CI-1129)](https://www.datart.cz/herni-klavesnice-CONNECT-IT-BATTLE-RNBW.html)
 
 ## Microphone: USB: [Endorfy Solum T (SM900T)](https://www.smarty.cz/Endorfy-Solum-T-SM900T-mikrofon-4p101619)
 
