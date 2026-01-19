@@ -28,7 +28,13 @@ none
 
 TBA
 
-## Power supply unit: [Endorfy Vero L6 Bronze 550W](https://www.alza.cz/endorfy-vero-l6-bronze-550w-d13163992.htm) ?
+## Power supply unit:
+
+[Endorfy Vero L6 Bronze 550W](https://www.alza.cz/endorfy-vero-l6-bronze-550w-d13163992.htm) ?
+
+nebo
+
+[Seasonic G12 GM-750 Gold 750W](https://www.mironet.cz/seasonic-g12-gm750-gold-750w-atx-aktivni-pfc-120mm-ventilator-80plus-gold+dp437762/)
 
 ## Disk drives
 
