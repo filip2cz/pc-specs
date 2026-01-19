@@ -13,7 +13,7 @@
 
 ## CPU
 
-[AMD Ryzen 5 3600X](https://www.alza.cz/amd-ryzen-5-3600x-d5634214.htm)
+[AMD Ryzen 5 3600X](https://www.techpowerup.com/cpu-specs/ryzen-5-3600x.c2131)
 
 - Socket: AMD AM4
 
