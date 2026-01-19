@@ -3,25 +3,19 @@
 ## OS
 [NixOS 25.11](https://nixos.org/)
 
-## Motherboard
-
-[B450 Gaming X](https://www.gigabyte.com/us/Motherboard/B450-Gaming-X-rev-1x)
+## Motherboard: [B450 Gaming X](https://www.gigabyte.com/us/Motherboard/B450-Gaming-X-rev-1x)
 
 - Socket: AMD AM4
 - Chipset: AMD B450
 - Form Factor: ATX; 30.5cm x 23.5cm
 
-## CPU
-
-[AMD Ryzen 5 3600X](https://www.techpowerup.com/cpu-specs/ryzen-5-3600x.c2131)
+## CPU: [AMD Ryzen 5 3600X](https://www.techpowerup.com/cpu-specs/ryzen-5-3600x.c2131)
 
 - Socket: AMD AM4
 
 ## GPU
 
-### External
-
-[GIGABYTE GTX 1060 MINI ITX OC](https://www.techpowerup.com/gpu-specs/gigabyte-gtx-1060-mini-itx-oc.b3796)
+### External: [GIGABYTE GTX 1060 MINI ITX OC](https://www.techpowerup.com/gpu-specs/gigabyte-gtx-1060-mini-itx-oc.b3796)
 
 - GPU memory: 3 GB
 - Year: 2016
@@ -34,15 +28,13 @@ none
 
 TBA
 
-## Power supply unit
-
-[Endorfy Vero L6 Bronze 550W](https://www.alza.cz/endorfy-vero-l6-bronze-550w-d13163992.htm) ?
+## Power supply unit: [Endorfy Vero L6 Bronze 550W](https://www.alza.cz/endorfy-vero-l6-bronze-550w-d13163992.htm) ?
 
 ## Disk drives
 
-### /: NVME: TBA
+### /: NVMe: [Samsung PM981 512 GB](https://www.techpowerup.com/ssd-specs/samsung-pm981-512-gb.d1221)
 
-- NVME
+- NVMe
 - 500 GB
 
 ### /home: SATA: [Samsung SSD 860 EVO 1TB](https://www.alza.cz/samsung-860-evo-1000gb-d5258009.htm)
