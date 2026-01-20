@@ -18,6 +18,8 @@
 
 ### CPU cooler: [Endorfy Fera 5](https://www.alza.cz/endorfy-fera-5-d7617315.htm)
 
+<!-- 619 Kč -->
+
 ## GPU
 
 ### Dedicated: [GIGABYTE GTX 1060 MINI ITX OC](https://www.techpowerup.com/gpu-specs/gigabyte-gtx-1060-mini-itx-oc.b3796)
