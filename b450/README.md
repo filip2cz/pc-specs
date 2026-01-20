@@ -63,6 +63,12 @@ TBA
 
 ### CD/DVD: SATA: [HL-DT-ST DVDRAM GH22NS70](https://www.hpmarket.cz/productOpt.asp?konfId=GH22NS70-AUARxx)
 
+## Case: [Endorfy Armis 100 Solid](https://www.alza.cz/endorfy-armis-100-solid-d12569108.htm)
+
+<!-- 1 059 Kč -->
+
+![Case photo](https://image.alza.cz/products/ENDa100s/ENDa100s-01.jpg?width=400&height=400)
+
 ## Mouse: USB: [Trust GXT 161 Disan](https://www.datart.cz/mys-trust-gxt-161-disan-cerna-22210.html)
 
 - DPI: 3000
@@ -72,9 +78,3 @@ TBA
 ## Keyboard: USB: [Connect IT Battle Rainbow, CZ (CI-1129)](https://www.datart.cz/herni-klavesnice-CONNECT-IT-BATTLE-RNBW.html)
 
 ## Microphone: USB: [Endorfy Solum T (SM900T)](https://www.smarty.cz/Endorfy-Solum-T-SM900T-mikrofon-4p101619)
-
-## Case: [Endorfy Armis 100 Solid](https://www.alza.cz/endorfy-armis-100-solid-d12569108.htm)
-
-<!-- 1 059 Kč -->
-
-![Case photo](https://image.alza.cz/products/ENDa100s/ENDa100s-01.jpg?width=400&height=400)
