@@ -1,10 +1,8 @@
 # pentiumf
 
-## Operating system
-- OS: Kubuntu 24.04 LTS
+## OS: [Kubuntu 24.04 LTS](https://www.kubuntu.org/)
 
-## Motherboard
-[Intel Desktop Board DQ67SW](https://www.alza.cz/intel-dq67sw-strawberry-mountain-stepping-b3-d222288.htm)
+## Motherboard: [Intel Desktop Board DQ67SW](https://www.alza.cz/intel-dq67sw-strawberry-mountain-stepping-b3-d222288.htm)
 - socket: [LGA 1155](https://en.wikipedia.org/wiki/LGA_1155)
 - Floppy drive connector: no
 - PS/2 connector: no
@@ -12,8 +10,7 @@
 
 manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 
-## Processor
-[Intel Core i7-2600](https://www.techpowerup.com/cpu-specs/core-i7-2600.c724)
+## Processor: [Intel Core i7-2600](https://www.techpowerup.com/cpu-specs/core-i7-2600.c724)
 - Codename: [Sandy Bridge](https://en.wikipedia.org/wiki/Sandy_Bridge)
 - Frequency: 3.4 GHz
 - Cores: 4
@@ -36,26 +33,29 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 | DIMM4 | M |
 | DIMM2 | N |
 
-## Graphic card
+## GPU
 
-### Dedicated
-[GIGABYTE GTX 1060 MINI ITX OC](https://www.techpowerup.com/gpu-specs/gigabyte-gtx-1060-mini-itx-oc.b3796)
+### Dedicated: [GIGABYTE GTX 1060 MINI ITX OC](https://www.techpowerup.com/gpu-specs/gigabyte-gtx-1060-mini-itx-oc.b3796)
 - GPU memory: 3 GB
 - Year: 2016
 
-### Internal
-[Intel HD 2000](https://www.techpowerup.com/gpu-specs/hd-graphics-2000.c1248)
+### Internal: [Intel HD 2000](https://www.techpowerup.com/gpu-specs/hd-graphics-2000.c1248)
 
-## Power supply unit
-[FORTRON ATX-350PNR 350W](https://www.alza.cz/fortron-350w-atx-d120805.htm)
+## Monitors
 
-## Case
-[Cooler Master Elite 341](https://www.alza.cz/gaming/coolermaster-elite-341-d159583.htm)
+### DVI-D -> DVI-D: Dell P2213
+
+### DVI-D -> DVI-D: Dell 1908FP
+
+### DisplayPort -> DVI-D: Dell P2213
+
+## Power supply unit: [FORTRON ATX-350PNR 350W](https://www.alza.cz/fortron-350w-atx-d120805.htm)
+
+## Case: [Cooler Master Elite 341](https://www.alza.cz/gaming/coolermaster-elite-341-d159583.htm)
 
 ![Case photo](https://image.alza.cz/products/CC034a/CC034a.jpg?width=400&height=400)
 
-## Mouse
-- [Trust GXT 161 Disan](https://www.datart.cz/mys-trust-gxt-161-disan-cerna-22210.html)
+## Mouse: [Trust GXT 161 Disan](https://www.datart.cz/mys-trust-gxt-161-disan-cerna-22210.html)
 - DPI: 3000
 - Senzor: optical
 - Wireless technology: Radio Frequency

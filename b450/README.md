@@ -31,6 +31,14 @@
 
 none
 
+## Monitors
+
+### DVI-D -> DVI-D: Dell P2213
+
+### DVI-D -> DVI-D: Dell 1908FP
+
+### DisplayPort -> DVI-D: Dell P2213
+
 ## RAM
 
 TBA
