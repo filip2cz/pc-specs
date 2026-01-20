@@ -27,6 +27,17 @@
 - GPU memory: 3 GB
 - Year: 2016
 
+<!--
+
+### Dedicated: [SAPPHIRE PULSE Radeon RX 6600 XT GAMING OC 8GB](https://www.techpowerup.com/gpu-specs/sapphire-pulse-rx-6600-xt.b9181)
+
+https://pc.bazos.cz/inzerat/213622979/rx-6600xt-sapphire.php
+
+- GPU memory: 8 GB
+- Year: 2021
+
+-->
+
 ### Internal
 
 none
@@ -35,9 +46,15 @@ none
 
 ### DVI-D -> DVI-D: Dell P2213
 
+<!-- ### DisplayPort -> DisplayPort: Dell P2213 -->
+
 ### DVI-D -> DVI-D: Dell 1908FP
 
+<!-- ### HDMI -> DVI-D: Dell 1908FP -->
+
 ### DisplayPort -> DVI-D: Dell P2213
+
+<!-- ### DisplayPort -> DisplayPort: Dell P2213 -->
 
 ## RAM
 
