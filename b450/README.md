@@ -77,4 +77,6 @@ TBA
 
 ## Keyboard: USB: [Connect IT Battle Rainbow, CZ (CI-1129)](https://www.datart.cz/herni-klavesnice-CONNECT-IT-BATTLE-RNBW.html)
 
+## Headphones: red 3,5 mm Jack: [Zalman ZM-HPS300](https://www.alza.cz/zalman-zm-hps300-d2275708.htm)
+
 ## Microphone: USB: [Endorfy Solum T (SM900T)](https://www.smarty.cz/Endorfy-Solum-T-SM900T-mikrofon-4p101619)
