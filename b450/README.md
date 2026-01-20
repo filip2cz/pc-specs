@@ -4,11 +4,15 @@
 
 ## Motherboard: [B450 Gaming X](https://www.gigabyte.com/us/Motherboard/B450-Gaming-X-rev-1x)
 
+<!-- 1 898 Kč -->
+
 - Socket: AMD AM4
 - Chipset: AMD B450
 - Form Factor: ATX; 30.5cm x 23.5cm
 
 ## CPU: [AMD Ryzen 5 3600X](https://www.techpowerup.com/cpu-specs/ryzen-5-3600x.c2131)
+
+<!-- 1 538 Kč -->
 
 - Socket: AMD AM4
 
@@ -27,13 +31,9 @@ none
 
 TBA
 
-## Power supply unit:
+## Power supply unit: [Seasonic G12 GM-750 Gold 750W](https://www.mironet.cz/seasonic-g12-gm750-gold-750w-atx-aktivni-pfc-120mm-ventilator-80plus-gold+dp437762/) ?
 
-[Endorfy Vero L6 Bronze 550W](https://www.alza.cz/endorfy-vero-l6-bronze-550w-d13163992.htm) ?
-
-nebo
-
-[Seasonic G12 GM-750 Gold 750W](https://www.mironet.cz/seasonic-g12-gm750-gold-750w-atx-aktivni-pfc-120mm-ventilator-80plus-gold+dp437762/) ?
+<!-- 1 859 Kč -->
 
 ## Disk drives
 
@@ -71,5 +71,7 @@ nebo
 
 ## Case
 [Endorfy Armis 100 Solid](https://www.alza.cz/endorfy-armis-100-solid-d12569108.htm) ?
+
+<!-- 1 059 Kč -->
 
 ![Case photo](https://image.alza.cz/products/ENDa100s/ENDa100s-01.jpg?width=400&height=400)
