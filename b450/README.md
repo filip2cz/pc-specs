@@ -35,7 +35,7 @@ none
 
 TBA
 
-## Power supply unit: [Seasonic G12 GM-750 Gold 750W](https://www.mironet.cz/seasonic-g12-gm750-gold-750w-atx-aktivni-pfc-120mm-ventilator-80plus-gold+dp437762/) ?
+## Power supply unit: [Seasonic G12 GM-750 Gold 750W](https://www.mironet.cz/seasonic-g12-gm750-gold-750w-atx-aktivni-pfc-120mm-ventilator-80plus-gold+dp437762/)
 
 <!-- 1 859 Kč -->
 
@@ -73,7 +73,7 @@ TBA
 
 ## Microphone: USB: [Endorfy Solum T (SM900T)](https://www.smarty.cz/Endorfy-Solum-T-SM900T-mikrofon-4p101619)
 
-## Case: [Endorfy Armis 100 Solid](https://www.alza.cz/endorfy-armis-100-solid-d12569108.htm) ?
+## Case: [Endorfy Armis 100 Solid](https://www.alza.cz/endorfy-armis-100-solid-d12569108.htm)
 
 <!-- 1 059 Kč -->
 
