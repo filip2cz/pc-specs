@@ -20,6 +20,18 @@
 
 <!-- 619 Kč -->
 
+## RAM
+
+TBA
+
+<!--
+
+https://pc.bazos.cz/inzerat/213839040/corsair-vengeance-lpx-16gb-ddr4-2x8gb-3200mhz.php
+
+https://pc.bazos.cz/inzerat/213852711/kingstone-hyperx-2x8gb-3200mhz.php
+
+-->
+
 ## GPU
 
 ### Dedicated: [GIGABYTE GTX 1060 MINI ITX OC](https://www.techpowerup.com/gpu-specs/gigabyte-gtx-1060-mini-itx-oc.b3796)
@@ -56,10 +68,6 @@ none
 
 <!-- ### DisplayPort -> DisplayPort: Dell P2213 -->
 
-## RAM
-
-TBA
-
 ## Power supply unit: [Seasonic G12 GM-750 Gold 750W](https://www.mironet.cz/seasonic-g12-gm750-gold-750w-atx-aktivni-pfc-120mm-ventilator-80plus-gold+dp437762/)
 
 <!-- 1 859 Kč -->
@@ -71,7 +79,7 @@ TBA
 - NVMe
 - 500 GB
 
-### /home: SATA: [Samsung SSD 860 EVO 1TB](https://www.alza.cz/samsung-860-evo-1000gb-d5258009.htm)
+### /home: SATA: [Samsung SSD 860 EVO 1TB](https://www.techpowerup.com/ssd-specs/samsung-860-evo-1-tb.d8)
 
 - SSD
 - 1 TB
@@ -81,7 +89,7 @@ TBA
 - HDD
 - 8 TB
 
-### Windows 11 VM + dualboot: SATA: [Samsung SSD 860 EVO 500TB](https://www.alza.cz/samsung-860-evo-500gb-d5258008.htm)
+### Windows 11 VM + dualboot: SATA: [Samsung SSD 860 EVO 500 GB](https://www.techpowerup.com/ssd-specs/samsung-860-evo-500-gb.d7)
 
 - SSD
 - 500 GB
