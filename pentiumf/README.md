@@ -35,7 +35,7 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 
 ## GPU
 
-### Dedicated: [GIGABYTE GTX 1060 MINI ITX OC](https://www.techpowerup.com/gpu-specs/gigabyte-gtx-1060-mini-itx-oc.b3796)
+### Dedicated: [GIGABYTE GTX 1060 MINI ITX OC 3GB](https://www.techpowerup.com/gpu-specs/gigabyte-gtx-1060-mini-itx-oc.b3796)
 - GPU memory: 3 GB
 - Year: 2016
 
