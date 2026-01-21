@@ -113,3 +113,16 @@ none
 ## Headphones: red 3,5 mm Jack: [Zalman ZM-HPS300](https://www.alza.cz/zalman-zm-hps300-d2275708.htm)
 
 ## Microphone: USB: [Endorfy Solum T (SM900T)](https://www.smarty.cz/Endorfy-Solum-T-SM900T-mikrofon-4p101619)
+
+# Price
+
+| part                          | CZK   |
+| ----------------------------- | ----- |
+| B450 Gaming X                 | 1 898 |
+| AMD Ryzen 5 3600X             | 1 538 |
+| Endorfy Fera 5                |   619 |
+| Seasonic G12 GM-750 Gold 750W | 1 859 |
+| Endorfy Armis 100 Solid       | 1 059 |
+
+- total: 6973
+- other components are from [pentiumf](https://github.com/filip2cz/pc-specs/tree/main/pentiumf)
