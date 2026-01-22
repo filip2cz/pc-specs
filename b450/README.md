@@ -110,5 +110,5 @@ none
 | Seasonic G12 GM-750 Gold 750W                         | 1 859 |
 | Endorfy Armis 100 Solid                               | 1 059 |
 
-- total: 10 573
+- total: 13 572
 - other components are from [pentiumf](https://github.com/filip2cz/pc-specs/tree/main/pentiumf)
