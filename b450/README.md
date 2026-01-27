@@ -9,6 +9,7 @@
 - Socket: AMD AM4
 - Chipset: AMD B450
 - Form Factor: ATX; 30.5cm x 23.5cm
+- [manual](https://download.gigabyte.com/FileList/Manual/mb_manual_b450-gaming-x_e_1102_v1.pdf)
 
 ## CPU: [AMD Ryzen 5 3600X](https://www.techpowerup.com/cpu-specs/ryzen-5-3600x.c2131)
 
