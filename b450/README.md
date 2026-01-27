@@ -21,9 +21,9 @@
 
 <!-- 619 Kč -->
 
-## RAM
+## RAM: 32 GB
 
-- [Corsair 32GB KIT DDR4 3200 MT/s CL16 Vengeance LPX](https://www.alza.cz/corsair-32gb-kit-ddr4-3200mhz-cl16-vengeance-lpx-cerna-d5800369.htm)
+### [Corsair 32GB KIT DDR4 3200 MT/s CL16 Vengeance LPX](https://www.alza.cz/corsair-32gb-kit-ddr4-3200mhz-cl16-vengeance-lpx-cerna-d5800369.htm)
 
 - 2 x 16 GB
 - 3200 MHz
