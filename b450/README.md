@@ -41,17 +41,11 @@ none
 
 ## Monitors
 
-### DVI-D -> DVI-D: Dell P2213
+### DisplayPort -> DisplayPort: Dell P2213
 
-<!-- ### DisplayPort -> DisplayPort: Dell P2213 -->
+### HDMI -> DVI-D: Dell 1908FP
 
-### DVI-D -> DVI-D: Dell 1908FP
-
-<!-- ### HDMI -> DVI-D: Dell 1908FP -->
-
-### DisplayPort -> DVI-D: Dell P2213
-
-<!-- ### DisplayPort -> DisplayPort: Dell P2213 -->
+### DisplayPort -> DisplayPort: Dell P2213
 
 ## Power supply unit: [Seasonic G12 GM-750 Gold 750W](https://www.mironet.cz/seasonic-g12-gm750-gold-750w-atx-aktivni-pfc-120mm-ventilator-80plus-gold+dp437762/)
 
