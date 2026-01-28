@@ -68,7 +68,7 @@ none
 - HDD
 - 8 TB
 
-### Windows 11 VM + dualboot: SATA: [Samsung SSD 860 EVO 500 GB](https://www.techpowerup.com/ssd-specs/samsung-860-evo-500-gb.d7)
+### Windows 11 VM + dualboot: SATA: [Samsung 850 EVO 500 GB](https://www.techpowerup.com/ssd-specs/samsung-850-evo-500-gb.d30)
 
 - SSD
 - 500 GB
