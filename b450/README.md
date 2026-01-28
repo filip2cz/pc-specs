@@ -23,7 +23,7 @@
 
 ## RAM: 32 GB
 
-### [Corsair 32GB KIT DDR4 3600 MT/s CL16 Vengeance LPX Black](https://www.alza.cz/corsair-32gb-kit-ddr4-3600mhz-cl16-vengeance-lpx-black-d6788178.htm)
+### [Corsair 32GB KIT DDR4 3600 MT/s CL16 Vengeance LPX](https://www.alza.cz/corsair-32gb-kit-ddr4-3600mhz-cl16-vengeance-lpx-black-d6788178.htm)
 
 - 2 x 16 GB
 - 3200 MHz
@@ -100,7 +100,7 @@ none
 | B450 Gaming X                                         | 1 898 |
 | AMD Ryzen 5 3600X                                     | 1 538 |
 | Endorfy Fera 5                                        |   619 |
-| Corsair 32GB KIT DDR4 3200 MT/s CL16 Vengeance LPX    | 2 999 |
+| Corsair 32GB KIT DDR4 3600 MT/s CL16 Vengeance LPX    | 2 999 |
 | SAPPHIRE PULSE Radeon RX 6600 XT GAMING OC 8GB        | 3 600 |
 | Seasonic G12 GM-750 Gold 750W                         | 1 859 |
 | Endorfy Armis 100 Solid                               | 1 059 |
