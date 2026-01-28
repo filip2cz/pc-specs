@@ -1,4 +1,4 @@
-# B450: new PC concept
+# B450
 
 ## OS: [NixOS 25.11](https://nixos.org/)
 
