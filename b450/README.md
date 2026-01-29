@@ -93,6 +93,16 @@ none
 
 ## Microphone: USB: [Endorfy Solum T (SM900T)](https://www.smarty.cz/Endorfy-Solum-T-SM900T-mikrofon-4p101619)
 
+## Specific bios settings
+
+bcs. my CPU is littlebit broken, I need some specific settings in bios for stability:
+
+- Global C-state Control:  disabled
+- CPU Clock Ratio: 36.00
+- Dynamic Vcore: +0.200 V
+- Power Supply Idle Control: Typical Current Idle
+- PCIe Slot Configuration: Gen 3
+
 # Price
 
 | part                                                  | CZK   |
