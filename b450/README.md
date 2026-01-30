@@ -28,12 +28,16 @@
 - 2 x 16 GB
 - 3200 MHz
 
+<!-- 1 999 Kč -->
+
 ## GPU
 
 ### Dedicated: [SAPPHIRE PULSE Radeon RX 6600 XT GAMING OC 8GB](https://www.techpowerup.com/gpu-specs/sapphire-pulse-rx-6600-xt.b9181)
 
 - GPU memory: 8 GB
 - Year: 2021
+
+<!-- 3 600 Kč -->
 
 ### Internal
 
@@ -110,7 +114,7 @@ bcs. my CPU is littlebit broken, I need some specific settings in bios for stabi
 | B450 Gaming X                                         | 1 898 |
 | AMD Ryzen 5 3600X                                     | 1 538 |
 | Endorfy Fera 5                                        |   619 |
-| Corsair 32GB KIT DDR4 3600 MT/s CL16 Vengeance LPX    | 2 999 |
+| Corsair 32GB KIT DDR4 3600 MT/s CL16 Vengeance LPX    | 1 999 |
 | SAPPHIRE PULSE Radeon RX 6600 XT GAMING OC 8GB        | 3 600 |
 | Seasonic G12 GM-750 Gold 750W                         | 1 859 |
 | Endorfy Armis 100 Solid                               | 1 059 |
