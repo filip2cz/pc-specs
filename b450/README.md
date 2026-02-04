@@ -11,9 +11,9 @@
 - Form Factor: ATX; 30.5cm x 23.5cm
 - [manual](https://download.gigabyte.com/FileList/Manual/mb_manual_b450-gaming-x_e_1102_v1.pdf)
 
-## CPU: [AMD Ryzen 5 3600X](https://www.techpowerup.com/cpu-specs/ryzen-5-3600x.c2131)
+## CPU: [AMD Ryzen 7 3700X](https://www.techpowerup.com/cpu-specs/ryzen-7-3700x.c2130)
 
-<!-- 1 538 Kč -->
+<!-- 1 913 Kč -->
 
 - Socket: AMD AM4
 
@@ -97,22 +97,12 @@ none
 
 ## Microphone: USB: [Endorfy Solum T (SM900T)](https://www.smarty.cz/Endorfy-Solum-T-SM900T-mikrofon-4p101619)
 
-## Specific bios settings
-
-bcs. my CPU is littlebit broken, I need some specific settings in bios for stability:
-
-- Global C-state Control:  disabled
-- CPU Clock Ratio: 34.00
-- Dynamic Vcore: +0.108 V
-- Power Supply Idle Control: Typical Current Idle
-- PCIe Slot Configuration: Gen 3
-
 # Price
 
 | part                                                  | CZK   |
 | ----------------------------------------------------- | ----- |
 | B450 Gaming X                                         | 1 898 |
-| AMD Ryzen 5 3600X                                     | 1 538 |
+| AMD Ryzen 7 3700X                                     | 1 913 |
 | Endorfy Fera 5                                        |   619 |
 | Corsair 32GB KIT DDR4 3600 MT/s CL16 Vengeance LPX    | 1 999 |
 | SAPPHIRE PULSE Radeon RX 6600 XT GAMING OC 8GB        | 3 600 |
