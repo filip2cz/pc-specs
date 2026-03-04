@@ -36,6 +36,7 @@
 
 - GPU memory: 8 GB
 - Year: 2021
+- Nvidia equivalent: [GeForce RTX 2060 SUPER](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2060+SUPER&id=4117) > RX 6600 XT > [GeForce RTX 3080 Laptop GPU](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3080+Laptop+GPU&id=4332)
 
 <!-- 3 600 Kč -->
 
