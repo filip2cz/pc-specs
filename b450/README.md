@@ -50,6 +50,7 @@
 Based of benchmarks from [technical.city](https://technical.city/en/video/rating)
 
 - Nvidia: [GeForce RTX 2060 Super](https://technical.city/en/video/GeForce-RTX-2060-Super-vs-Radeon-RX-6600-XT)
+- Intel: [Arc A770](https://technical.city/en/video/Radeon-RX-6600-XT-vs-Arc-A770)
 
 ### Internal
 
