@@ -31,20 +31,28 @@
 
 ### [Corsair 32GB KIT DDR4 3600 MT/s CL16 Vengeance LPX](https://www.alza.cz/corsair-32gb-kit-ddr4-3600mhz-cl16-vengeance-lpx-black-d6788178.htm)
 
+<!-- 1 999 Kč -->
+
 - 2 x 16 GB
 - 3200 MHz
-
-<!-- 1 999 Kč -->
 
 ## GPU
 
 ### Dedicated: [SAPPHIRE PULSE Radeon RX 6600 XT GAMING OC 8GB](https://www.techpowerup.com/gpu-specs/sapphire-pulse-rx-6600-xt.b9181)
 
+<!-- 3 600 Kč -->
+
 - GPU memory: 8 GB
 - Year: 2021
-- Nvidia equivalent: [GeForce RTX 2060 SUPER](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2060+SUPER&id=4117) > RX 6600 XT > [GeForce RTX 3080 Laptop GPU](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3080+Laptop+GPU&id=4332)
 
-<!-- 3 600 Kč -->
+## GPU equivalents
+
+Based of benchmarks from [gfxbench.com](https://gfxbench.com/), test: 4K Aztec Ruins High Tier Offscreen
+
+- Nvidia: GeForce RTX 2080 SUPER > RX 6600 XT > GeForce RTX 3070 Ti Laptop GPU
+
+- Intel: Intel Arc A770M > RX 6600 XT > Intel Arc A580
+
 
 ### Internal
 
