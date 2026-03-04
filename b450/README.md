@@ -16,6 +16,12 @@
 <!-- 1 913 Kč -->
 
 - Socket: AMD AM4
+- Cores: 8
+- Threads: 16
+- TDP: 65 W
+- Frequency: 3.6 GHz
+- Boost: 4.4 GHz
+- Codename: Matisse
 
 ### CPU cooler: [Endorfy Fera 5](https://www.alza.cz/endorfy-fera-5-d7617315.htm)
 
