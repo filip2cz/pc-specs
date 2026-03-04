@@ -1,0 +1,66 @@
+[filip@b450:~]$ fastfetch
+
+          ▗▄▄▄       ▗▄▄▄▄    ▄▄▄▖             filip@b450
+          ▜███▙       ▜███▙  ▟███▛             ----------
+           ▜███▙       ▜███▙▟███▛              OS: NixOS 25.11 (Xantusia) x86_64
+            ▜███▙       ▜██████▛               Host: B450 GAMING X
+     ▟█████████████████▙ ▜████▛     ▟▙         Kernel: Linux 6.12.74
+    ▟███████████████████▙ ▜███▙    ▟██▙        Uptime: 11 hours, 39 mins
+           ▄▄▄▄▖           ▜███▙  ▟███▛        Packages: 2021 (nix-system), 458 (nix-user), 12 (flatpak)
+          ▟███▛             ▜██▛ ▟███▛         Shell: bash 5.3.3
+         ▟███▛               ▜▛ ▟███▛          Display (DELL P2213): 1050x1680 in 22", 60 Hz [External]
+▟███████████▛                  ▟██████████▙    Display (DELL 1908FP): 1280x1024 in 19", 75 Hz [External]
+▜██████████▛                  ▟███████████▛    Display (DELL P2213): 1680x1050 in 22", 60 Hz [External] *
+      ▟███▛ ▟▙               ▟███▛             DE: KDE Plasma
+     ▟███▛ ▟██▙             ▟███▛              WM: KWin (Wayland)
+    ▟███▛  ▜███▙           ▝▀▀▀▀               WM Theme: Breeze
+    ▜██▛    ▜███▙ ▜██████████████████▛         Theme: Breeze (Dark) [Qt]
+     ▜▛     ▟████▙ ▜████████████████▛          Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
+           ▟██████▙       ▜███▙                Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
+          ▟███▛▜███▙       ▜███▙               Cursor: Breeze_Light (24px)
+         ▟███▛  ▜███▙       ▜███▙              Terminal: konsole 25.8.3
+         ▝▀▀▀    ▀▀▀▀▘       ▀▀▀▘              CPU: AMD Ryzen 7 3700X (16) @ 4.43 GHz
+                                               GPU: AMD Radeon RX 6600 XT [Discrete]
+                                               Memory: 8.09 GiB / 31.27 GiB (26%)
+                                               Swap: 1.48 GiB / 32.00 GiB (5%)
+                                               Disk (/): 193.47 GiB / 435.90 GiB (44%) - ext4
+                                               Disk (/home): 217.73 GiB / 915.82 GiB (24%) - ext4
+                                               Disk (/home/filip/hdd): 1.69 TiB / 5.41 TiB (31%) - ext4
+                                               Locale: cs_CZ.UTF-8
+
+[filip@b450:~]$ cpufetch
+
+Name:                AMD Ryzen 7 3700X 8-Core Processor 
+Microarchitecture:   Zen 2
+Technology:          7nm
+Max Frequency:       4.426 GHz
+Cores:               8 cores (16 threads)
+AVX:                 AVX,AVX2
+FMA:                 FMA3
+L1i Size:            32KB (256KB Total)
+L1d Size:            32KB (256KB Total)
+L2 Size:             512KB (4MB Total)
+L3 Size:             16MB (32MB Total)
+Peak Performance:    1.13 TFLOP/s
+                                                              
+[filip@b450:~]$ ramfetch
+
+   ████████████████████████████     filip@b450
+ ████████████████████████████████   ----------
+ ████      ████      ███      ███   RAM Total ->          31,27GiB
+ ████      ████      ███      ███   RAM Free ->          687,68MiB
+ ████      ████      ███      ███   RAM Available ->      23,36GiB
+ ████      ████      ███      ███   Buffers ->           952,13MiB
+ ████████████████████████████████   Cached ->             20,68GiB
+ ██████████████████   ███████████   Swap Total ->         32,01GiB
+ ██████████████████   ███████████   Swap Free ->          30,58GiB
+                                    Zswap ->                 0,00B
+                                    Zswapped ->              0,00B
+                                    Swap Cached ->       133,57MiB
+                                    Dirty ->              20,86MiB
+                                    Kernel Stack ->       36,57MiB
+                                    Per CPU ->            18,38MiB
+                                    Writeback Tmp ->         0,00B
+                                    Vmalloc Total ->      32,00TiB
+                                    Vmalloc Used ->       93,29MiB
+                                    Mapped ->              7,45GiB
