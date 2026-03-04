@@ -45,14 +45,11 @@
 - GPU memory: 8 GB
 - Year: 2021
 
-## GPU equivalents
+#### Equivalents
 
-Based of benchmarks from [gfxbench.com](https://gfxbench.com/), test: 4K Aztec Ruins High Tier Offscreen
+Based of benchmarks from [technical.city](https://technical.city/en/video/rating)
 
-- Nvidia: GeForce RTX 2080 SUPER > RX 6600 XT > GeForce RTX 3070 Ti Laptop GPU
-
-- Intel: Intel Arc A770M > RX 6600 XT > Intel Arc A580
-
+- Nvidia: [GeForce RTX 2060 Super](https://technical.city/en/video/GeForce-RTX-2060-Super)
 
 ### Internal
 
