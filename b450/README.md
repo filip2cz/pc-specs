@@ -49,7 +49,7 @@
 
 Based of benchmarks from [technical.city](https://technical.city/en/video/rating)
 
-- Nvidia: [GeForce RTX 2060 Super](https://technical.city/en/video/GeForce-RTX-2060-Super)
+- Nvidia: [GeForce RTX 2060 Super](https://technical.city/en/video/GeForce-RTX-2060-Super-vs-Radeon-RX-6600-XT)
 
 ### Internal
 
