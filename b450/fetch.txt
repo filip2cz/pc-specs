@@ -5,8 +5,8 @@ filip@b450
 OS: NixOS 25.11 (Xantusia) x86_64
 Host: B450 GAMING X
 Kernel: Linux 6.12.76
-Uptime: 23 mins
-Packages: 5996 (nix-system), 12 (flatpak)
+Uptime: 4 hours, 10 mins
+Packages: 6029 (nix-system), 12 (flatpak)
 Shell: bash 5.3.3
 Display (DELL P2213): 1680x1050 in 22", 60 Hz [External] *
 Display (DELL 1908FP): 1280x1024 in 19", 60 Hz [External]
@@ -21,11 +21,11 @@ Cursor: Breeze_Light (24px)
 Terminal: konsole 25.8.3
 CPU: AMD Ryzen 7 3700X (16) @ 4.43 GHz
 GPU: AMD Radeon RX 6600 XT [Discrete]
-Memory: 7.04 GiB / 31.27 GiB (23%)
-Swap: 161.21 MiB / 32.00 GiB (0%)
-Disk (/): 187.71 GiB / 435.90 GiB (43%) - ext4
-Disk (/home): 245.86 GiB / 915.82 GiB (27%) - ext4
-Disk (/home/filip/hdd): 1.77 TiB / 5.41 TiB (33%) - ext4
+Memory: 7.95 GiB / 31.27 GiB (25%)
+Swap: 2.78 GiB / 32.00 GiB (9%)
+Disk (/): 175.18 GiB / 435.90 GiB (40%) - ext4
+Disk (/home): 250.41 GiB / 915.82 GiB (27%) - ext4
+Disk (/home/filip/hdd): 1.86 TiB / 5.41 TiB (34%) - ext4
 Local IP (eno1): 192.168.1.218/24
 Locale: cs_CZ.UTF-8
 

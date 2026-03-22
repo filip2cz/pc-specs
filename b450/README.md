@@ -98,6 +98,8 @@ none
 
 ![Case photo](https://image.alza.cz/products/ENDa100s/ENDa100s-01.jpg?width=400&height=400)
 
+## Wifi card: [HP 588540-001](https://www.pxa.cz/sitove-a-wifi-karty/hp-wi-fi-bezdratova-karta-wifi-802-11-b-g-n-pci-e-rsma/)
+
 ## Mouse: USB: [Trust GXT 161 Disan](https://www.datart.cz/mys-trust-gxt-161-disan-cerna-22210.html)
 
 - DPI: 3000
