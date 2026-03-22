@@ -12,10 +12,9 @@
 - Boost: 4.8 GHz
 - Codename: Whiskey Lake-U
 
-### [TBA](#)
+### RAM
 
-- 2 x 16 GB
-- TBA
+- 2x 16 GB: [SK hynix DDR4 2666MHz 16GB SODIMM CL19 HMA82GS6CJR8N-VK](https://www.adrys.cz/2666mhz-2/sk-hynix-ddr4-2666mhz-16gb-sodimm-cl19-hma82gs6cjr8n-vk/)
 
 ## GPU
 
@@ -44,3 +43,7 @@ Based of benchmarks from [technical.city](https://technical.city/en/video/rating
 
 - NVMe
 - 500 GB
+
+## Wifi card: [Intel Wireless-AC 9560](https://www.intel.com/content/www/us/en/products/sku/99446/intel-wirelessac-9560/specifications.html)
+
+## WWAN card: [Dell DW5821e LTE](https://www.incomputer.cz/dell-dw5821e-mobilni-lte-4g-modem-do-notebooku--wwan--m-2/)
