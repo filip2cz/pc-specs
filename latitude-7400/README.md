@@ -12,6 +12,8 @@
 - Boost: 4.8 GHz
 - Codename: Whiskey Lake-U
 
+- AMD equivalent: [Ryzen 3 1200](https://technical.city/en/cpu/Ryzen-3-1200-vs-Core-i7-8665U)
+
 ### RAM
 
 - 2x 16 GB: [SK hynix DDR4 2666MHz 16GB SODIMM CL19 HMA82GS6CJR8N-VK](https://www.adrys.cz/2666mhz-2/sk-hynix-ddr4-2666mhz-16gb-sodimm-cl19-hma82gs6cjr8n-vk/)

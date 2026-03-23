@@ -23,6 +23,8 @@
 - Boost: 4.4 GHz
 - Codename: Matisse
 
+- Intel equivalent: [i9-10900X](https://technical.city/en/cpu/Core-i9-10900X-vs-Ryzen-7-3700X)
+
 ### CPU cooler: [Endorfy Fera 5](https://www.alza.cz/endorfy-fera-5-d7617315.htm)
 
 <!-- 619 Kč -->
