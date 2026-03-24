@@ -1,12 +1,12 @@
-[filip@latitude:~]$ fastfetch --logo none
+[filip@b450:~]$ fastfetch
 
 filip@latitude
 --------------
 OS: NixOS 25.11 (Xantusia) x86_64
 Host: Latitude 7400
 Kernel: Linux 6.12.76
-Uptime: 21 mins
-Packages: 1566 (nix-system)
+Uptime: 52 seconds
+Packages: 1620 (nix-system)
 Shell: bash 5.3.3
 Display (AUO633D): 1600x900 in 14", 120 Hz [Built-in]
 DE: KDE Plasma
@@ -20,47 +20,33 @@ Terminal: konsole 25.8.3
 Terminal Font: Hack (12pt)
 CPU: Intel(R) Core(TM) i7-8665U (8) @ 4.80 GHz
 GPU: Intel UHD Graphics 620 @ 1.15 GHz [Integrated]
-Memory: 4.79 GiB / 31.16 GiB (15%)
+Memory: 2.26 GiB / 31.16 GiB (7%)
 Swap: 0 B / 34.28 GiB (0%)
-Disk (/): 77.30 GiB / 433.66 GiB (18%) - ext4
-Local IP (wlo1): 10.1.0.234/20
-Battery (DELL K4Y2J99): 73% (9 hours, 21 mins remaining) [Discharging]
-Locale: cs_CZ.UTF-8                  
+Disk (/): 84.30 GiB / 433.66 GiB (19%) - ext4
+Local IP (wwp0s20f0u4c2): 100.105.215.70/30
+Battery (DELL K4Y2J99): 64% (5 hours, 59 mins remaining) [Discharging]
+Locale: cs_CZ.UTF-8
 
-[filip@latitude:~]$ cpufetch
 
-Name:                Intel Core i7-8665U
-Microarchitecture:   Whiskey Lake
-Technology:          14nm
-Max Frequency:       4.800 GHz
-Cores:               4 cores (8 threads)
-AVX:                 AVX,AVX2
-FMA:                 FMA3
-L1i Size:            32KB (128KB Total)
-L1d Size:            32KB (128KB Total)
-L2 Size:             256KB (1MB Total)
-L3 Size:             8MB
-Peak Performance:    614.40 GFLOP/s
+[filip@b450:~]$ cpufetch
 
-[filip@latitude:~]$ ramfetch
-
-filip@latitude
---------------
-RAM Total ->          31,17GiB
-RAM Free ->           20,54GiB
-RAM Available ->      26,37GiB
-Buffers ->             1,45GiB
-Cached ->              4,58GiB
-Swap Total ->         34,28GiB
-Swap Free ->          34,28GiB
-Zswap ->                 0,00B
-Zswapped ->              0,00B
-Swap Cached ->           0,00B
-Dirty ->             260,00KiB
-Kernel Stack ->       18,36MiB
-Per CPU ->             6,91MiB
-Writeback Tmp ->         0,00B
-Vmalloc Total ->      32,00TiB
-Vmalloc Used ->       62,73MiB
-Mapped ->            940,13MiB
+                               ###############@               
+                       ######@                ######@         
+                  ###@                              ###@      
+              ##@                                     ###@    Name:                Intel Core i7-8665U
+         ##@                                             ##@  Microarchitecture:   Whiskey Lake
+         ##@                                             ##@  Technology:          14nm
+      @                    ##@                ##@        ##@  Max Frequency:       4.800 GHz
+    #@   ##@   ########@   #####@   #####@    ##@        ##@  Cores:               4 cores (8 threads)
+   #@    ##@   ##@    ##@  ##@    ###@  ###@  ##@        ##@  AVX:                 AVX,AVX2
+  #@     ##@   ##@    ##@  ##@    ##@    ##@  ##@       ##@   FMA:                 FMA3
+ #@      ##@   ##@    ##@  ##@    #########@  ##@     ###@    L1i Size:            32KB (128KB Total)
+ #@      ##@   ##@    ##@  ##@    ##@         ##@   ####@     L1d Size:            32KB (128KB Total)
+ #@       #@   ##@    ##@   ####@  ########@   #@  ##@        L2 Size:             256KB (1MB Total)
+ ##@                                                          L3 Size:             8MB
+  ##@                                                         Peak Performance:    614.40 GFLOP/s
+  ###@                                        ###@            
+    ####@                               #########@            
+      #########@               ###############@               
+          ##############################@                     
 
