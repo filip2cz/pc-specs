@@ -26,6 +26,9 @@
 - Memory Score: 365
 - Storage Score: 88
 
+### Source SDK Base 2013: 372,58 fps
+- Highest settings
+
 ## Windows VM
 
 ### [Geekbench6 CPU](https://browser.geekbench.com/v6/cpu/17397212)
