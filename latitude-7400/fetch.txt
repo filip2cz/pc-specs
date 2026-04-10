@@ -4,27 +4,25 @@ filip@latitude
 --------------
 OS: NixOS 25.11 (Xantusia) x86_64
 Host: Latitude 7400
-Kernel: Linux 6.12.76
-Uptime: 52 seconds
-Packages: 1620 (nix-system)
+Kernel: Linux 6.6.132
+Packages: 1740 (nix-system)
 Shell: bash 5.3.3
-Display (AUO633D): 1600x900 in 14", 120 Hz [Built-in]
+Display (AUO633D): 1920x1080 @ 1.25x in 14", 60 Hz [Built-in]
 DE: KDE Plasma
-WM: KWin (X11)
+WM: KWin (Wayland)
 WM Theme: Breeze
 Theme: Breeze (Dark) [Qt]
 Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
 Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
 Cursor: Breeze_Light (24px)
-Terminal: konsole 25.8.3
-Terminal Font: Hack (12pt)
+Terminal: screen
 CPU: Intel(R) Core(TM) i7-8665U (8) @ 4.80 GHz
 GPU: Intel UHD Graphics 620 @ 1.15 GHz [Integrated]
-Memory: 2.26 GiB / 31.16 GiB (7%)
-Swap: 0 B / 34.28 GiB (0%)
-Disk (/): 84.30 GiB / 433.66 GiB (19%) - ext4
-Local IP (wwp0s20f0u4c2): 100.105.215.70/30
-Battery (DELL K4Y2J99): 64% (5 hours, 59 mins remaining) [Discharging]
+Memory: 4.53 GiB / 31.16 GiB (15%)
+Swap: 126.50 MiB / 34.28 GiB (0%)
+Disk (/): 173.64 GiB / 433.66 GiB (40%) - ext4
+Local IP (wlo1): 10.0.1.218/21
+Battery (DELL K4Y2J99): 89% [Charging, AC Connected]
 Locale: cs_CZ.UTF-8
 
 
