@@ -10,6 +10,9 @@
 - Vulkan Score: [98458](https://browser.geekbench.com/v6/compute/5924443)
 - OpenCL Score: [90431](https://browser.geekbench.com/v6/compute/5924430)
 
+### Novabench: [2672](https://novabench.com/result/2de2848e-57f7-49a0-a240-471482ad98a2)
+under distrobox, since Novabench does not support NixOS
+
 ## Windows
 
 ### [Geekbench6 CPU](https://browser.geekbench.com/v6/cpu/17397306)
