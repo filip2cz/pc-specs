@@ -10,7 +10,7 @@
 - Vulkan Score: [98458](https://browser.geekbench.com/v6/compute/5924443)
 - OpenCL Score: [90431](https://browser.geekbench.com/v6/compute/5924430)
 
-### Novabench: [2672](https://novabench.com/result/2de2848e-57f7-49a0-a240-471482ad98a2)
+### [Novabench: 2672](https://novabench.com/result/2de2848e-57f7-49a0-a240-471482ad98a2)
 under distrobox, since Novabench does not support NixOS
 
 ## Windows
@@ -23,7 +23,7 @@ under distrobox, since Novabench does not support NixOS
 - Vulkan Score: [86972](https://browser.geekbench.com/v6/compute/6135083)
 - OpenCL Score: [86530](https://browser.geekbench.com/v6/compute/6135085)
 
-### [Novabench](https://novabench.com/result/b29a65f7-8a9d-4812-be6f-7e060c1ac5f5): 2701
+### [Novabench: 2701](https://novabench.com/result/b29a65f7-8a9d-4812-be6f-7e060c1ac5f5)
 - CPU Score: 1698
 - GPU Score: 550
 - Memory Score: 365
