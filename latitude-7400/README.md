@@ -1,6 +1,6 @@
 # Dell Latitude e7400
 
-## OS: [NixOS 25.11](https://nixos.org/)
+## OS: [NixOS 26.05](https://nixos.org/)
 
 ## CPU: [Intel Core i7-8665U](https://www.techpowerup.com/cpu-specs/core-i7-8665u.c3596)
 
