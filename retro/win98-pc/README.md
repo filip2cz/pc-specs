@@ -2,12 +2,13 @@
 
 ## OS: Windows 98
 
-## Motherboard: [TBA]()
+## Motherboard:
 
-- Socket: 
-- Chipset: 
-- Form Factor: 
-- [manual](#)
+Something like [PCChips/Hsin Tech M560 V3.1](https://theretroweb.com/motherboards/s/pcchips-m560-v3.x), but with Matsonic logo on it and with Acer M1543 B1 chips instead of TX PRO
+
+- Socket: Socket 7 (PGA321)
+- Chipset: ALi M1531/M1533 (ALADDiN IV)
+- Form Factor: Baby AT
 
 ## CPU: [Intel Pentium MMX](https://cs.wikipedia.org/wiki/Pentium_MMX)
 
