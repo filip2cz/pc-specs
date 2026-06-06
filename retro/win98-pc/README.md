@@ -35,7 +35,9 @@
 
 ### CD/DVD: SATA: [TBA](#)
 
-## Network Card: [NETGEAR FA310TX Rev-D2](https://theretroweb.com/expansioncards/s/netgear-fa310tx-rev-d2)
+## Network card: [NETGEAR FA310TX Rev-D2](https://theretroweb.com/expansioncards/s/netgear-fa310tx-rev-d2)
+
+## Sound card: [LWHA381F20](https://fcc.report/FCC-ID/LWHA381F20)
 
 ## Case: [TBA](#)
 
