@@ -1,6 +1,6 @@
 # B450
 
-## OS: [NixOS 25.11](https://nixos.org/)
+## OS: [NixOS 26.05](https://nixos.org/)
 
 ## Motherboard: [B450 Gaming X](https://www.gigabyte.com/us/Motherboard/B450-Gaming-X-rev-1x)
 
