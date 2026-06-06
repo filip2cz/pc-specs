@@ -17,6 +17,8 @@
 
 ## RAM: 32 MB
 
+- 2x[NT511740A5J-60](https://ram-co-shop.de/16-MB-EDO-RAM-72-pin-4Mx32-non-Parity-PS-2-Simm-60-ns-Chips-8x-Nanya-NT511740A5J-60_1)
+
 ## GPU
 
 ### Dedicated: [S3 Trio64V2/DX](https://www.vgamuseum.info/index.php/cpu/item/361-s3-trio64v2-dx) none
@@ -36,6 +38,9 @@
 - 1 GB
 
 ### CD/DVD: SATA: [TBA](#)
+
+## Floppy drive: [TBA](#)
+- 3.5"
 
 ## Network card: [NETGEAR FA310TX Rev-D2](https://theretroweb.com/expansioncards/s/netgear-fa310tx-rev-d2)
 
