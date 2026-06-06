@@ -38,7 +38,7 @@ Something like [PCChips/Hsin Tech M560 V3.1](https://theretroweb.com/motherboard
 ### D: [Quantum Pioneer SG SG10A011](https://www.memory4less.com/quantum-hard-drive-sg10a011)
 - 1 GB
 
-### CD/DVD: SATA: [TBA](#)
+### CD/DVD: SATA: [LG GSA-4160B](https://theretroweb.com/cddrives/1120)
 
 ## Floppy drive: [TBA](#)
 - 3.5"
