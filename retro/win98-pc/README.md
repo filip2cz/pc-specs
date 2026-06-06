@@ -35,6 +35,8 @@
 
 ### CD/DVD: SATA: [TBA](#)
 
+## Network Card: [NETGEAR FA310TX Rev-D2](https://theretroweb.com/expansioncards/s/netgear-fa310tx-rev-d2)
+
 ## Case: [TBA](#)
 
 ![Case photo](#)
