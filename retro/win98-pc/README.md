@@ -23,14 +23,16 @@
 
 ### Internal: None
 
-## Power supply unit: [TBA](#)
+## Power supply unit: [Codegen U200Ce](https://picclick.it/Codegen-U200Ce-200W-Molex-Fdd-Aux-404554386761.html)
+
+- 200 W
 
 ## Disk drives
 
-### C: [TBA](#)
+### C: [WD AC14300](https://theretroweb.com/harddrives/179)
 - 4 GB
 
-### D: [TBA](#)
+### D: [Quantum Pioneer SG SG10A011](https://www.memory4less.com/quantum-hard-drive-sg10a011)
 - 1 GB
 
 ### CD/DVD: SATA: [TBA](#)
