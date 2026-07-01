@@ -16,7 +16,7 @@
 
 ### RAM
 
-- 2x 16 GB: [SK hynix DDR4 2666MHz 16GB SODIMM CL19 HMA82GS6CJR8N-VK](https://www.adrys.cz/2666mhz-2/sk-hynix-ddr4-2666mhz-16gb-sodimm-cl19-hma82gs6cjr8n-vk/)
+- 1x 16 GB: [SK hynix DDR4 2666MHz 16GB SODIMM CL19 HMA82GS6CJR8N-VK](https://www.adrys.cz/2666mhz-2/sk-hynix-ddr4-2666mhz-16gb-sodimm-cl19-hma82gs6cjr8n-vk/)
 
 ## GPU
 

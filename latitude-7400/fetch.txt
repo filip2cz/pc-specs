@@ -5,7 +5,7 @@ filip@latitude
 OS: NixOS 26.05 (Yarara) x86_64
 Host: Latitude 7400
 Kernel: Linux 6.6.141
-Packages: 1853 (nix-system)
+Packages: 1856 (nix-system)
 Shell: zsh 5.9
 Display (AUO633D): 1920x1080 @ 1.25x in 14", 60 Hz [Built-in]
 DE: KDE Plasma 6.6.5
@@ -18,11 +18,11 @@ Cursor: Breeze_Light (24px)
 Terminal: screen 5.0.1
 CPU: Intel(R) Core(TM) i7-8665U (8) @ 4.80 GHz
 GPU: Intel UHD Graphics 620 @ 1.15 GHz [Integrated]
-Memory: 2.36 GiB / 31.16 GiB (8%)
+Memory: 2.35 GiB / 15.44 GiB (15%)
 Swap: 0 B / 34.28 GiB (0%)
-Disk (/): 314.61 GiB / 433.66 GiB (73%) - ext4
+Disk (/): 310.12 GiB / 433.66 GiB (72%) - ext4
 Local IP (wlo1): 192.168.0.141/24
-Battery (DELL K4Y2J99): 87% (2 hours, 22 mins remaining) [Discharging]
+Battery (DELL K4Y2J99): 52% [AC Connected, Charging]
 Locale: cs_CZ.UTF-8
 
 
