@@ -60,11 +60,11 @@ none
 
 ## Monitors
 
-### DisplayPort -> DisplayPort: Dell P2213
+### DisplayPort -> DisplayPort: [DELL P2422H](https://www.alza.cz/23-8-dell-p2422h-d6548523.htm)
 
-### HDMI -> DVI-D: Dell 1908FP
+### DisplayPort -> DVI-D: [DELL 1908FP](https://www.pocitarna.cz/monitory/dell-ultrasharp-1908fp-3/)
 
-### DisplayPort -> DisplayPort: Dell P2213
+### HDMI -> HDMI: [DELL P2422H](https://www.alza.cz/23-8-dell-p2422h-d6548523.htm)
 
 ## Power supply unit: [Seasonic G12 GM-750 Gold 750W](https://www.mironet.cz/seasonic-g12-gm750-gold-750w-atx-aktivni-pfc-120mm-ventilator-80plus-gold+dp437762/)
 
