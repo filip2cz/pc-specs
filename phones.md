@@ -24,8 +24,10 @@ Android 7.1.2, MIUI 11
 
 ## 2019 - 2022: [Xiaomi Redmi 8](https://www.gsmarena.com/xiaomi_redmi_8-9800.php)
 Android 9.0 - Android 10, MIUI 12
+
 ![Xiaomi Redmi 8](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-8-3.jpg)
 
 ## 2022 - present: [Google Pixel 6a](https://www.gsmarena.com/google_pixel_6a-11229.php)
 Android 12 - Android 17
+
 ![Google Pixel 6a](https://fdn2.gsmarena.com/vv/pics/google/google-pixel-6a-0.jpg)
