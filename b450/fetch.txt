@@ -4,27 +4,27 @@ filip@b450
 ----------
 OS: NixOS 26.05 (Yarara) x86_64
 Host: B450 GAMING X
-Kernel: Linux 6.18.37
-Packages: 15 (flatpak), 6224 (nix-system)
+Kernel: Linux 6.18.47
+Packages: 15 (flatpak), 6276 (nix-system)
 Shell: zsh 5.9.1
 Display (DELL P2422H): 1080x1920 in 24", 60 Hz [External]
 Display (DELL 1908FP): 1280x1024 in 19", 60 Hz [External]
 Display (DELL P2422H): 1920x1080 in 24", 60 Hz [External] *
-DE: KDE Plasma 6.6.5
+DE: KDE Plasma 6.6.6
 WM: KWin (Wayland)
 WM Theme: Breeze
 Theme: Breeze (Dark) [Qt]
 Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
 Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
 Cursor: Breeze_Light (24px)
-Terminal: konsole 26.4.2
+Terminal: konsole 26.4.3
 CPU: AMD Ryzen 7 3700X (16) @ 4.43 GHz
 GPU: AMD Radeon RX 6600 XT [Discrete]
-Memory: 7.21 GiB / 31.27 GiB (23%)
+Memory: 4.86 GiB / 31.27 GiB (16%)
 Swap: 0 B / 32.00 GiB (0%)
-Disk (/): 250.50 GiB / 435.90 GiB (57%) - ext4
-Disk (/home): 179.10 GiB / 915.82 GiB (20%) - ext4
-Disk (/home/filip/hdd): 2.82 TiB / 5.41 TiB (52%) - ext4
+Disk (/): 275.32 GiB / 435.90 GiB (63%) - ext4
+Disk (/home): 226.94 GiB / 915.82 GiB (25%) - ext4
+Disk (/home/filip/hdd): 2.92 TiB / 5.41 TiB (54%) - ext4
 Local IP (eno1): 192.168.1.218/24
 Locale: cs_CZ.UTF-8
 
