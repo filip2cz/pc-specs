@@ -4,25 +4,25 @@ filip@latitude
 --------------
 OS: NixOS 26.05 (Yarara) x86_64
 Host: Latitude 7400
-Kernel: Linux 6.6.141
-Packages: 1856 (nix-system)
-Shell: zsh 5.9
+Kernel: Linux 6.12.106
+Packages: 6 (flatpak-system), 8 (flatpak-user), 3034 (nix-system)
+Shell: zsh 5.9.1
 Display (AUO633D): 1920x1080 @ 1.25x in 14", 60 Hz [Built-in]
-DE: KDE Plasma 6.6.5
+DE: KDE Plasma 6.6.6
 WM: KWin (Wayland)
 WM Theme: Breeze
-Theme: Breeze (Dark) [Qt]
-Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
+Theme: Breeze (PrettyPink) [Qt]
+Icons: HannahMontana [Qt], HannahMontana [GTK2/3/4]
 Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
-Cursor: Breeze_Light (24px)
+Cursor: breeze (24px)
 Terminal: screen 5.0.1
 CPU: Intel(R) Core(TM) i7-8665U (8) @ 4.80 GHz
 GPU: Intel UHD Graphics 620 @ 1.15 GHz [Integrated]
-Memory: 2.35 GiB / 15.44 GiB (15%)
+Memory: 2.85 GiB / 15.43 GiB (18%)
 Swap: 0 B / 34.28 GiB (0%)
-Disk (/): 310.12 GiB / 433.66 GiB (72%) - ext4
-Local IP (wlo1): 192.168.0.141/24
-Battery (DELL K4Y2J99): 52% [AC Connected, Charging]
+Disk (/): 337.47 GiB / 433.66 GiB (78%) - ext4
+Local IP (wlo1): 192.168.1.61/24
+Battery (DELL K4Y2J99): 80% [AC Connected, Charging]
 Locale: cs_CZ.UTF-8
 
 
