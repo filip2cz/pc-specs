@@ -2,6 +2,8 @@
 
 ## OS: [NixOS 26.05](https://nixos.org/)
 
+- [Zen Kernel](https://github.com/zen-kernel/zen-kernel)
+
 ## Motherboard: [B450 Gaming X](https://www.gigabyte.com/us/Motherboard/B450-Gaming-X-rev-1x)
 
 <!-- 1 898 Kč -->

@@ -1,17 +1,14 @@
 # Benchmarks
 
-## Linux
+## Linux - [Zen Kernel](https://github.com/zen-kernel/zen-kernel) 7.1.10-zen1
 
-### [Geekbench6 CPU](https://browser.geekbench.com/v6/cpu/16865644)
+### [Geekbench6 CPU](https://browser.geekbench.com/v6/cpu/19122269)
 - Single-Core Score: 1725
 - Multi-Core Score: 9129
 
 ### Geekbench6 GPU
-- Vulkan Score: [98458](https://browser.geekbench.com/v6/compute/5924443)
-- OpenCL Score: [90431](https://browser.geekbench.com/v6/compute/5924430)
-
-### [Novabench: 2672](https://novabench.com/result/2de2848e-57f7-49a0-a240-471482ad98a2)
-under distrobox, since Novabench does not support NixOS
+- Vulkan Score: [101162](https://browser.geekbench.com/v6/compute/6866032)
+- OpenCL Score: [89828](https://browser.geekbench.com/v6/compute/6866031)
 
 ## Windows
 
@@ -37,3 +34,16 @@ under distrobox, since Novabench does not support NixOS
 ### [Geekbench6 CPU](https://browser.geekbench.com/v6/cpu/17397212)
 - Single-Core Score: 1669
 - Multi-Core Score: 7504
+
+## Linux - standard Kernel 6.12.74
+
+### [Geekbench6 CPU](https://browser.geekbench.com/v6/cpu/16865644)
+- Single-Core Score: 1725
+- Multi-Core Score: 9129
+
+### Geekbench6 GPU
+- Vulkan Score: [98458](https://browser.geekbench.com/v6/compute/5924443)
+- OpenCL Score: [90431](https://browser.geekbench.com/v6/compute/5924430)
+
+### [Novabench: 2672](https://novabench.com/result/2de2848e-57f7-49a0-a240-471482ad98a2)
+under distrobox, since Novabench does not support NixOS
