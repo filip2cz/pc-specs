@@ -43,11 +43,11 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 
 ## Monitors
 
-### DVI-D -> DVI-D: Dell P2213
+### ~~DVI-D -> DVI-D: Dell P2213~~
 
-### DVI-D -> DVI-D: Dell 1908FP
+### ~~DVI-D -> DVI-D: Dell 1908FP~~
 
-### DisplayPort -> DVI-D: Dell P2213
+### ~~DisplayPort -> DVI-D: Dell P2213~~
 
 ## Power supply unit: [FORTRON ATX-350PNR 350W](https://www.alza.cz/fortron-350w-atx-d120805.htm)
 
@@ -55,7 +55,7 @@ manual: https://www.manualslib.com/manual/440767/Intel-Dq67sw.html#manual
 
 ![Case photo](https://image.alza.cz/products/CC034a/CC034a.jpg?width=400&height=400)
 
-## Mouse: [Trust GXT 161 Disan](https://www.datart.cz/mys-trust-gxt-161-disan-cerna-22210.html)
+## Mouse: ~~[Trust GXT 161 Disan](https://www.datart.cz/mys-trust-gxt-161-disan-cerna-22210.html)~~
 - DPI: 3000
 - Senzor: optical
 - Wireless technology: Radio Frequency
