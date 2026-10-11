@@ -4,8 +4,8 @@ filip@b450
 ----------
 OS: NixOS 26.05 (Yarara) x86_64
 Host: B450 GAMING X
-Kernel: Linux 7.1.10-zen1
-Packages: 15 (flatpak), 6290 (nix-system)
+Kernel: Linux 7.2.9-zen1
+Packages: 21 (flatpak), 6524 (nix-system)
 Shell: zsh 5.9.1
 Display (DELL P2422H): 1080x1920 in 24", 60 Hz [External]
 Display (DELL 1908FP): 1280x1024 in 19", 60 Hz [External]
@@ -20,11 +20,11 @@ Cursor: Breeze_Light (24px)
 Terminal: konsole 26.4.3
 CPU: AMD Ryzen 7 3700X (16) @ 4.43 GHz
 GPU: AMD Radeon RX 6600 XT [Discrete]
-Memory: 4.52 GiB / 31.26 GiB (14%)
-Swap: 0 B / 32.00 GiB (0%)
-Disk (/): 241.15 GiB / 435.90 GiB (55%) - ext4
-Disk (/home): 203.32 GiB / 915.82 GiB (22%) - ext4
-Disk (/home/filip/hdd): 2.97 TiB / 5.41 TiB (55%) - ext4
+Memory: 9.96 GiB / 31.26 GiB (32%)
+Swap: 1.48 GiB / 32.00 GiB (5%)
+Disk (/): 244.30 GiB / 435.90 GiB (56%) - ext4
+Disk (/home): 224.00 GiB / 915.82 GiB (24%) - ext4
+Disk (/home/filip/hdd): 1.52 TiB / 7.22 TiB (21%) - ext4
 Local IP (eno1): 192.168.1.218/24
 Locale: cs_CZ.UTF-8
 
